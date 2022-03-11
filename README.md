@@ -28,7 +28,7 @@ Thank you for visiting my github<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ## 🧑🏻‍💻 Dev log
-<img align="right" width="50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whqtkf12">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstDo&theme=github_dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="left" width="80%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whqtkf12">
+<img align="left" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstDo&theme=github_dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
 
