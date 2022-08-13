@@ -10,13 +10,11 @@
 - E-mail: whqtkf12@naver.com
 - Blog: https://velog.io/@aurora_97
 
-## 🛠 Skills & Tools
-
 ### Skills
 <img src="https://img.shields.io/badge/iOS-E34F26?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Combine-E34F26?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
 
-## 🧑🏻‍💻 Language
+### Language
   
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstDo&theme=github_dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
