@@ -7,9 +7,8 @@
 
 ## 🤔 Introduction
 
-- 개발 프로세스와 개발 문화에 관심이 많은 주니어 iOS 개발자 입니다 
-- 기능 구현은 기본이고 근거있는 코드, 깔끔한 코드 작성이 가장 중요하다고 생각하며 새로운 기술 / 혹은 개선된 방식으로 리팩토링하는것을 좋아합니다
-- 혼자 문제를 고민하기 보단, 팀원과 같이 공유해서 같이 고민하고 같이 해결하는것을 좋아합니다
+- 주니어 iOS 개발자 :)
+- 요즘은 SwiftUI + TCA 에 매우 큰 관심이 있습니다
 
 ## 🎈 Career & Experience
 
@@ -19,7 +18,6 @@
 
 ## 📝 Profile
 - E-mail: whqtkf12@naver.com
-- Notion: [LINK](https://www.notion.so/0cd41ae605674b06a3ed5d4261f085db)
 
 ## 🛠️ Skills
 
