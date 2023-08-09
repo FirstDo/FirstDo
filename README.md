@@ -13,8 +13,7 @@
 ## 🎈 Career & Experience
 
 - 야곰아카데미 iOS 커리어 스타트 캠프 5기 (2022.03 ~ 2022.08)
-- Olive Union (2022.10 ~ 2023.04)
-- LifeSemantics (2023.04 ~ )
+- Olive Union (2022.9 ~)
 
 ## 📝 Profile
 - E-mail: whqtkf12@naver.com
