@@ -18,6 +18,7 @@
 
 ## 📝 Profile
 - E-mail: whqtkf12@naver.com
+- Notion: https://dudu97.notion.site/0cd41ae605674b06a3ed5d4261f085db?pvs=4
 
 ## 🛠️ Skills
 
